@@ -1,0 +1,22 @@
+# House registered domains — one per line, # comments allowed.
+# Source: 2026-11-06 registrar inventory plus later registrations
+# (tluf.org, visionquest.me). Caveat carried from the inventory: a
+# notice-silent domain could be missing from this list.
+# The Let's Encrypt 50/week cap applies per registered domain
+# (eTLD+1): every subdomain draws on that domain's single budget.
+phext.io
+mirrorborn.us
+bickfordllamaranch.com
+apertureshift.com
+wishnode.net
+phextura.com
+tluf.org
+singularitywatch.org
+quickfork.net
+sotafomo.com
+visionquest.me
+hb-aeromotive.com
+xedoloh.com
+exectorox.com
+askthewill.com
+snakefalls.org
